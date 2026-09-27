@@ -1,0 +1,6 @@
+{
+  "name": "星之卡比：甜點王國大冒險",
+  "description": "專為小朋友與喜愛卡比的玩家打造的互動冒險網頁遊戲。具備觸控與鍵盤雙模式操作、8-bit合成音效、多重分歧路線、成就與高分排行榜，並已完全設定好 GitHub Pages 自動化部署。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
